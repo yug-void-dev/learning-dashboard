@@ -9,6 +9,11 @@
     "lint": "eslint"
   },
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "@supabase/ssr": "^0.10.3",
+    "@supabase/supabase-js": "^2.106.2",
+>>>>>>> 3df9883b6716181974921f8f1017d13bee301f52
     "framer-motion": "^12.40.0",
     "lucide-react": "^1.17.0",
     "next": "16.2.6",
@@ -20,6 +25,10 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+<<<<<<< HEAD
+=======
+    "babel-plugin-react-compiler": "1.0.0",
+>>>>>>> 3df9883b6716181974921f8f1017d13bee301f52
     "eslint": "^9",
     "eslint-config-next": "16.2.6",
     "tailwindcss": "^4",
